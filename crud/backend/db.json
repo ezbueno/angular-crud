@@ -1,17 +1,23 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "Caneta BIC Preta",
-        "price": 5.89
-    }, 
+  "products": [
     {
-        "id": 2,
-        "name": "Notebook Mac Pro",
-        "price": 12000.90
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
     },
     {
-        "id": 3,
-        "name": "Samsung S21",
-        "price": 5000.90
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.9
+    },
+    {
+      "id": 3,
+      "name": "Samsung S21",
+      "price": 5000.9
+    }, 
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "price": 4999.99
     }]
 }
