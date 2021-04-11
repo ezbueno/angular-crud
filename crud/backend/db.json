@@ -14,10 +14,15 @@
       "id": 3,
       "name": "Samsung S21",
       "price": 5000.9
+    },
+    {
+        "id": 4,
+        "name": "Playstation 5",
+        "price": 4999.99
     }, 
     {
-      "id": 4,
-      "name": "Playstation 5",
-      "price": 4999.99
+        "id": 5,
+        "name": "Playstation 4",
+        "price": 2940.99
     }]
 }
